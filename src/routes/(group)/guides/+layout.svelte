@@ -1,11 +1,11 @@
 <script>
   import Title from '$lib/title.svelte'
-  import '../../styles/global.css'
+  import '../../../styles/global.css'
 </script>
 
 <header>
   <nav>
-    <Title title="Ninja Gaming Guides" />
+    <Title title="Gaming Guides" />
     <div class="links">
       <a href="/">Home</a>
       <a href="/about">About</a>
@@ -19,7 +19,7 @@
 </main>
 
 <footer>
-  <p>Copyright 2022 Ninja Gaming Guides</p>
+  <p>Copyright 2023 Gaming Guides</p>
 </footer>
 
 <style>

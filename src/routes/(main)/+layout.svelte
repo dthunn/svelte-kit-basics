@@ -1,10 +1,10 @@
 <script>
   import Title from '$lib/title.svelte'
-  import '../styles/global.css'
+  import '../../styles/global.css'
 </script>
 
 <header>
-  <Title title="Ninja Gaming Guides" />
+  <Title title="Gaming Guides" />
 </header>
 
 <main>
@@ -12,7 +12,7 @@
 </main>
 
 <footer>
-  <p>Copyright 2022 Ninja Gaming Guides</p>
+  <p>Copyright 2023 Gaming Guides</p>
 </footer>
 
 <style>
